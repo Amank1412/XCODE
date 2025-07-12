@@ -11,7 +11,7 @@
 
 ## 📸 Preview
 
-![screenshot](./preview.png) <!-- Add screenshot if available -->
+![screenshot](./Preview.png) <!-- Add screenshot if available -->
 
 ## 🛠️ Tech Stack
 
