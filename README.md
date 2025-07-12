@@ -1,17 +1,14 @@
 # XCODE
 
-🚀 A modern and stylish developer-focused landing page built using **React**, **Tailwind CSS**, and **Spline** for 3D elements.
+A modern and stylish developer-focused landing page built using **React**, **Tailwind CSS**, and **Spline** for 3D elements.
 
-## ✨ Features
+## Features
 
-- ⚙️ Hero section with animated 3D robot (Spline)
-- 💎 Stylish gradient tag line using Boxicons
-- 📄 Responsive design with utility-first Tailwind CSS
-- ⚡ Fast and lightweight
+- Hero section with animated 3D robot (Spline)
+- Stylish gradient tag line using Boxicons
+- Responsive design with utility-first Tailwind CSS
+- Fast and lightweight
 
-## 📸 Preview
-
-![screenshot](./Preview.png) <!-- Add screenshot if available -->
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +17,7 @@
 - Boxicons
 - @splinetool/react-spline
 
-## 🚀 Getting Started
+##  Getting Started
 
 Clone the repo:
 
